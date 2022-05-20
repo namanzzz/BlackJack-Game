@@ -1,0 +1,68 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("Images/card-8.jpg");
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+
+    opacity: 80%;
+
+}
+
+.container {
+
+
+
+    font-size: larger;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 100px 0;
+
+}
+
+h1 {
+    color: aqua;
+    text-align: center;
+}
+
+#message-el {
+    text-align: center;
+    font-style: italic;
+}
+
+#start-btn {
+    /* background: goldenrod; */
+    background: aqua;
+    width: 150px;
+    /* color: #016f32; */
+    color: #016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+#newcard-btn {
+
+    background: aqua;
+    width: 150px;
+    /* color: #016f32; */
+    color: #016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+
+}
+
+p {
+    text-align: center;
+}
