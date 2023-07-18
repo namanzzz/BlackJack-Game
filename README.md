@@ -7,4 +7,5 @@ Whenever the player clicks onto the 'start new game' button, two random  cards n
 In the other case if sum of cards drawn by the player is lesser than 21 player is still allowed to grab the new cards until he/she wins or losses the game.
 If sum of cards drawn by the player exceeds 21 than the player is considered to have lost the game and player's total chips are decreased by a total of 5 dollars.
 
-
+## Wanna Play?
+### https://namanzzz.github.io/BlackJack-Game/
